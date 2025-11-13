@@ -23,7 +23,5 @@ Scanner input = new Scanner(System.in);
 
         System.out.println("Reversed number is: " + reversed);
 
-        input.close();
-
 }
 }
